@@ -4,8 +4,7 @@ import Reviews from "./Reviews";
 const App = ()=>{
     return(
         <div>
-            <Reviews />  
-                      
+            <Reviews />                        
         </div>
     )
 }
